@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "William Dalpe"
-description              : "Pigeon Training For Reliable Delivery"
+description              : "Mechanical Engineering of Minions"
 url                      : http://williamdalpe.engineering
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "williamdalpe-engineering"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -49,9 +49,9 @@ atom_feed:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : "7D866336EBF5D0BAD8327269CD856D25"
 alexa_site_verification  :
-yandex_site_verification :
+yandex_site_verification : "a6bc1734ec105007"
 
 # Social Sharing
 twitter:
@@ -72,7 +72,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-34067232-4"
 
 
 # Site Author
