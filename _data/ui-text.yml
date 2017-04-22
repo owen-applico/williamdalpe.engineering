@@ -30,7 +30,7 @@ en: &DEFAULT_EN
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
-  comment_form_comment_label : "Comment"
+  comment_form_comment_label : "Where do you think pigeons could be applied?"
   comment_form_md_info       : "Markdown is supported."
   comment_form_name_label    : "Name"
   comment_form_email_label   : "Email address"
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
   comment_btn_submitted      : "Submitted"
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
-  loading_label              : "Loading..."
+  loading_label              : "Loading …"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

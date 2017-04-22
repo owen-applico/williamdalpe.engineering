@@ -9,16 +9,16 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "William Dalpe"
+description              : "Pigeon Training For Reliable Delivery"
+url                      : http://williamdalpe.engineering
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -77,16 +77,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "William Dalpe"
+  avatar           : "/assets/images/contraption.jpg"
+  bio              : "Engineer of Minion-Powered Machines"
+  location         : "Massachusetts"
   email            :
-  uri              :
+  uri              : "http://lmgtfy.com/?q=who+is+William+Dalpe"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "photos/97702372@N07/sets/72157649928446887/"
   facebook         :
   foursquare       :
   github           :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/watch?v=oGf0UXq9V3s"
 
 
 # Reading Files
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # for Disqus
       share: true
       related: true
